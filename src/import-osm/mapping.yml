@@ -6,7 +6,7 @@ tables:
     - name: geometry
       type: validated_geometry
     - name: area
-      type: pseudoarea
+      type: area
     - name: name
       key: name
       type: string
